@@ -2,3 +2,4 @@ streamlit-drawable-canvas
 streamlit
 pandas
 keras
+tensorflow
