@@ -1,6 +1,7 @@
+opencv-python
 streamlit-drawable-canvas
 streamlit
 pandas
 keras
 tensorflow
-opencv-python
+
