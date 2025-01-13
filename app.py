@@ -5,7 +5,7 @@ import cv2
 import numpy as np
 
 
-model_new = keras.models.load_model('mnist.hdf5')
+model_new = keras.models.load_model('mnist.keras')
 
 st.title("MNIST Digit Recognizer")
 
